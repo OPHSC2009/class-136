@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Champion.otf';
+    src: url('Champion.otf') format('truetype'); /* Replace with your font file path and format */
+  }
+
+  h1 {
+    font-family: 'Champion.otf', sans-serif;
+    font-size: 100 px;
+  }
+
+  hr{
+    border-color: black;
+  }
+
+  canvas {
+    margin-top: 130px;
+    border: 5px;
+    border-radius: 20px;
+    border-color: black;
+    border-width: thick;
+    border-style: solid
+    
+    
+    
+    
+    
+  }
